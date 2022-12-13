@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <strong> 
-  I'm Bernardo Rocha. A full stack software engineer who loves to learn. 
+  I'm Bernardo Rocha. A full stack software engineer who loves to learn.
 </strong> 
 
 ### 🧠 Stats:
@@ -29,3 +29,6 @@
   <a href="https://www.linkedin.com/in/bernardo-srocha/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
+  <br/>
+  
+<p style="font-size: 10px"> ⚠️ Disclaimer: I use Gitlab most of the time, that's why I have not that many commits xD</p>
