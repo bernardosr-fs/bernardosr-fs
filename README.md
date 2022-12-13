@@ -4,14 +4,17 @@
   I'm Bernardo Rocha. A full stack software engineer who loves to learn.
 </strong> 
 
+<!---
 ### 🧠 Stats:
 <div>
   <a href="https://github.com/bernardosr-fs">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=bernardosr-fs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosr-fs&layout=compact&langs_count=7&theme=github_dark&hide=php"/>
+  <img height="150rem" src="https://vercel-readme-stats-bernardosr-fs-a.vercel.app/api?username=bernardosr-fs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://vercel-readme-stats-bernardosr-fs-a.vercel.app/api/top-langs/?username=bernardosr-fs&layout=compact&langs_count=7&theme=github_dark&hide=php"/>
 </div>
-
- <br/> 
+ --->
+  
+  <br/> 
+  
   
 ### 👨‍💻 Currently working with:
 <div style="display: inline_block">
